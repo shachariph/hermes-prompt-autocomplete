@@ -1,0 +1,14 @@
+name: prompt-autocomplete
+version: "2.0.0"
+description: "Zero-DOM-lag inline sentence autocomplete for Hermes Desktop with automatic LTR (→) and RTL (←) direction detection, <1ms WebWorker history Trie, and fast small-model AI completion."
+author: "Shachar Iphraimov <iphraimov@gmail.com>"
+license: MIT
+homepage: "https://github.com/shachariph/hermes-prompt-autocomplete"
+requires_hermes: ">=0.21.0"
+provides_tools: []
+provides_hooks: []
+capabilities:
+  provides_tools: []
+  provides_hooks: []
+  provides_middleware: []
+  requires_env: []

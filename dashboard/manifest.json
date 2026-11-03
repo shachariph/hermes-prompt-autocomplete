@@ -1,0 +1,7 @@
+{
+  "name": "prompt-autocomplete",
+  "title": "Fast Prompt Autocomplete Backend",
+  "description": "Ultra-low-latency prompt autocomplete corpus & parallel small-model race API.",
+  "version": "2.0.0",
+  "api": "plugin_api.py"
+}
